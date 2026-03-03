@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Obada%20Hamed&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20Team%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=90e0ef" />
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/NEPHOS.png" alt="Your Image Badge" />
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
 [![TryHackMe Live](https://tryhackme-badges.s3.amazonaws.com/NEPHOS.png)](https://tryhackme.com/p/NEPHOS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obadahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obadahamed)

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Obada%20Hamed&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20%26%20Blue%20Team&descAlignY=58&descSize=18&descColor=90e0ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Obada%20Hamed&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20Team%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=90e0ef" />
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obadahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obadahamed)
@@ -16,13 +16,13 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  👤  Obada Hamed          │  📍 Syria                           │
 │  🎓  Cybersecurity Student│  🏫  GitHub Education (2026–2028)   │
-│  🔴  Red Team Enthusiast  │  🔵  Blue Team Analyst               │
+│  🔴  Red Team Enthusiast  │  🚩  CTF Player                     │
 │  🌐  CCNA Background      │  📘  Cisco CyberOps (In Progress)   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-I'm passionate about understanding how systems get attacked — and how to defend them.
-My approach: **break things to understand them, then build defenses around what I've learned.**
+I'm passionate about understanding how systems get attacked and how to break them ethically.
+My approach: **enumerate everything, understand the vulnerability, exploit it, document it.**
 
 ---
 
@@ -36,11 +36,13 @@ My approach: **break things to understand them, then build defenses around what 
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
-### 🔵 Defensive / Blue Team
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![BTLO](https://img.shields.io/badge/Blue%20Team%20Labs-1a1a2e?style=flat-square&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM%20Analysis-005F73?style=flat-square&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-0A9396?style=flat-square&logoColor=white)
+### 🚩 CTF & Exploitation
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-Directory%20Enum-orange?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-Brute%20Force-darkred?style=flat-square)
+![John](https://img.shields.io/badge/John%20the%20Ripper-Password%20Crack-black?style=flat-square)
+![Steghide](https://img.shields.io/badge/Steghide-Stego-purple?style=flat-square)
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,11 +61,11 @@ My approach: **break things to understand them, then build defenses around what 
 
 | Area | Status |
 |------|--------|
+| 🚩 CTF Challenges (TryHackMe) | 🔄 Active |
 | 🌐 Web Application Security (PortSwigger) | 🔄 Active |
-| 🔵 SOC Analyst Path | 🔄 Active |
 | 📘 Cisco CyberOps Associate | 🔄 In Progress |
-| 🧪 Blue Team Labs Online | 🔄 Active |
 | 🐍 Python Security Scripting | 🔄 Building |
+| 🔺 Privilege Escalation Techniques | 🔄 Active |
 
 ---
 
@@ -71,10 +73,12 @@ My approach: **break things to understand them, then build defenses around what 
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [🔸 PortSwigger-Writeups](https://github.com/obadahamed/PortSwigger-Writeups) | Web vulnerability writeups & solutions | 🔄 Building |
-| [🔸 BTLO-Writeups](https://github.com/obadahamed/BTLO-Writeups) | Blue Team Labs Online challenge writeups | 🔄 Building |
-| [🔸 Python-Security-Tools](https://github.com/obadahamed/Python-Security-Tools) | Custom scripts for security automation | 🔄 Building |
-| [🔸 CyberOps-Notes](https://github.com/obadahamed/CyberOps-Notes) | Study notes for Cisco CyberOps exam | 🔄 Building |
+| [🔸 PortSwigger-Labs](https://github.com/obadahamed/PortSwigger-Labs) | Web vulnerability labs & writeups | 🔄 Active |
+| [🔸 TRY-HACK-ME](https://github.com/obadahamed/TRY-HACK-ME) | CTF writeups & path notes | 🔄 Active |
+| [🔸 Privilege-Escalation](https://github.com/obadahamed/Privilege-Escalation) | Linux & Windows privesc techniques | 🔄 Active |
+| [🔸 Threat-Detection-Report-2022-Analysis](https://github.com/obadahamed/Threat-Detection-Report-2022-Analysis) | SOC analyst notes & MITRE mapping | ✅ Done |
+| [🔸 Tools-and-Scripts](https://github.com/obadahamed/Tools-and-Scripts) | Custom Python security tools | 🔄 Building |
+| [🔸 Google-Cybersecurity-Notes](https://github.com/obadahamed/Google-Cybersecurity-Notes) | Google Cybersecurity Certificate (8/8) | ✅ Done |
 
 ---
 
@@ -121,6 +125,6 @@ My approach: **break things to understand them, then build defenses around what 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:1a1f2e,100:0d1117&height=100&section=footer" />
 
-*"In cybersecurity, the attacker only needs to be right once. The defender needs to be right every time."*
+*"The quieter you become, the more you are able to hear."*
 
 </div>

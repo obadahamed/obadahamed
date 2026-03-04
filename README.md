@@ -63,10 +63,9 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 |------|--------|
 | 🚩 CTF Challenges (TryHackMe) | 🔄 Active |
 | 🌐 Web Application Security (PortSwigger) | 🔄 Active |
-| 📘 Cisco CyberOps Associate | 🔄 In Progress |
 | 🐍 Python Security Scripting | 🔄 Building |
 | 🔺 Privilege Escalation Techniques | 🔄 Active |
-
+| Google cybersecurity | completed |
 ---
 
 ## 📂 Repositories

@@ -65,7 +65,7 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 | 🌐 Web Application Security (PortSwigger) | 🔄 Active |
 | 🐍 Python Security Scripting | 🔄 Building |
 | 🔺 Privilege Escalation Techniques | 🔄 Active |
-| Google cybersecurity | completed |
+| Google cybersecurity | ✅ Done |
 ---
 
 ## 📂 Repositories

@@ -78,7 +78,7 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 | [🔸 Threat-Detection-Report-2022-Analysis](https://github.com/obadahamed/Threat-Detection-Report-2022-Analysis) | SOC analyst notes & MITRE mapping | ✅ Done |
 | [🔸 Tools-and-Scripts](https://github.com/obadahamed/Tools-and-Scripts) | Custom Python security tools | 🔄 Building |
 | [🔸 Google-Cybersecurity-Notes](https://github.com/obadahamed/Google-Cybersecurity-Notes) | Google Cybersecurity Certificate (8/8) | ✅ Done |
-| [🔸 Web3-Security](https://github.com/obadahamed/Web3-Security) | Web3-Security | 🔄 Building |
+| [🔸 Web3-Security](https://github.com/obadahamed/Web3-Security) | Web3-Security | 🔄 Active |
 
 ---
 

@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Obada%20Hamed&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20Team%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=90e0ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00b4d8&height=200&section=header&text=Obada%20Hamed&fontSize=50&fontColor=00b4d8&fontAlignY=38&desc=Penetration%20Tester%20in%20Training%20%7C%20Top%201%25%20TryHackMe%20%7C%20CTF%20Player&descAlignY=58&descSize=18&descColor=90e0ef" />
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS%20%7C%20Top%2030%2C000-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS%20%7C%20Top%201%25%20Global-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obadahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obadahamed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-obadahamed.github.io-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://obadahamed.github.io)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Academy-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)](https://portswigger.net)
 
 </div>
@@ -15,13 +16,13 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  👤  Obada Hamed          │  📍 Syria                           │
-│  🎓  Cybersecurity Student│  🏫  GitHub Education (2026–2028)   │
-│  🔴  Red Team Enthusiast  │  🚩  CTF Player                     │
-│  🌐  CCNA Background      │  📘  Cisco CyberOps (In Progress)   │
+│  🎯  Penetration Tester   │  🏆  TryHackMe Top 1% Global        │
+│  🔴  Red Team Focused     │  🚩  300+ Rooms Completed           │
+│  🌐  CCNA Background      │  🔥  Self-taught since age 12       │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-I'm passionate about understanding how systems get attacked and how to break them ethically.
+I'm passionate about understanding how systems get attacked and how to break them ethically.  
 My approach: **enumerate everything, understand the vulnerability, exploit it, document it.**
 
 ---
@@ -35,6 +36,14 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+
+### 🌐 Web Security
+![SQLi](https://img.shields.io/badge/SQL%20Injection-13%20Labs-red?style=flat-square)
+![XSS](https://img.shields.io/badge/XSS-13%20Labs-orange?style=flat-square)
+![SSRF](https://img.shields.io/badge/SSRF-5%20Labs-yellow?style=flat-square)
+![SSTI](https://img.shields.io/badge/SSTI-✓-green?style=flat-square)
+![IDOR](https://img.shields.io/badge/IDOR-✓-green?style=flat-square)
+![File Upload](https://img.shields.io/badge/File%20Upload-✓-green?style=flat-square)
 
 ### 🚩 CTF & Exploitation
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)
@@ -61,24 +70,24 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 
 | Area | Status |
 |------|--------|
-| 🚩 CTF Challenges (TryHackMe) | 🔄 Active |
 | 🌐 Web Application Security (PortSwigger) | 🔄 Active |
+| 🚩 CTF Challenges (TryHackMe) | 🔄 Active |
+| 🔺 Privilege Escalation — Linux & Windows | 🔄 Active |
 | 🐍 Python Security Scripting | 🔄 Building |
-| 🔺 Privilege Escalation Techniques | 🔄 Active |
-| Google cybersecurity | ✅ Done |
+| ✅ Google Cybersecurity Certificate | ✅ Done |
+
 ---
 
 ## 📂 Repositories
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| [🔸 PortSwigger-Labs](https://github.com/obadahamed/PortSwigger-Labs) | Web vulnerability labs & writeups | 🔄 Active |
-| [🔸 TRY-HACK-ME](https://github.com/obadahamed/TRY-HACK-ME) | CTF writeups & path notes | 🔄 Active |
+| [🔸 PortSwigger-Labs](https://github.com/obadahamed/PortSwigger-Labs) | SQLi · XSS · SSRF · SSTI · IDOR · File Upload writeups | 🔄 Active |
+| [🔸 TRY-HACK-ME](https://github.com/obadahamed/TRY-HACK-ME) | CTF writeups — Daily Bugle, Wreath, Lookup & more | 🔄 Active |
 | [🔸 Privilege-Escalation](https://github.com/obadahamed/Privilege-Escalation) | Linux & Windows privesc techniques | 🔄 Active |
-| [🔸 Threat-Detection-Report-2022-Analysis](https://github.com/obadahamed/Threat-Detection-Report-2022-Analysis) | SOC analyst notes & MITRE mapping | ✅ Done |
 | [🔸 Tools-and-Scripts](https://github.com/obadahamed/Tools-and-Scripts) | Custom Python security tools | 🔄 Building |
-| [🔸 Google-Cybersecurity-Notes](https://github.com/obadahamed/Google-Cybersecurity-Notes) | Google Cybersecurity Certificate (8/8) | ✅ Done |
-| [🔸 Web3-Security](https://github.com/obadahamed/Web3-Security) | Web3-Security | 🔄 Active |
+| [🔸 Threat-Detection-Report-2022-Analysis](https://github.com/obadahamed/Threat-Detection-Report-2022-Analysis) | SOC analyst notes & MITRE mapping | ✅ Done |
+| [🔸 Google-Cybersecurity-Notes](https://github.com/obadahamed/Google-Cybersecurity-Notes) | Google Cybersecurity Certificate (9/9 courses) | ✅ Done |
 
 ---
 
@@ -100,7 +109,7 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS%20%7C%20Top%2030%2C000-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NEPHOS%20%7C%20Top%201%25%20Global-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NEPHOS)
 
 [![TryHackMe Live Rank](https://tryhackme-badges.s3.amazonaws.com/NEPHOS.png)](https://tryhackme.com/p/NEPHOS)
 
@@ -114,6 +123,7 @@ My approach: **enumerate everything, understand the vulnerability, exploit it, d
 
 | Platform | Link |
 |----------|------|
+| 🌐 Portfolio | [obadahamed.github.io](https://obadahamed.github.io) |
 | 💼 LinkedIn | [linkedin.com/in/obadahamed](https://www.linkedin.com/in/obadahamed) |
 | 🔴 TryHackMe | [tryhackme.com/p/NEPHOS](https://tryhackme.com/p/NEPHOS) |
 | 🧪 PortSwigger | [portswigger.net/web-security](https://portswigger.net/web-security) |

@@ -17,7 +17,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  👤  Obada Hamed          │  📍 Syria                           │
 │  🎯  Penetration Tester   │  🏆  TryHackMe Top 1% Global        │
-│  🔴  Red Team Focused     │  🚩  300+ Rooms Completed           │
+│  🔴  Red Team Focused     │  🚩  180+ Rooms Completed           │
 │  🌐  CCNA Background      │  🔥  Self-taught since age 12       │
 └─────────────────────────────────────────────────────────────────┘
 ```
